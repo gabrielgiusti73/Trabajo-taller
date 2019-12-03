@@ -1,0 +1,10 @@
+{
+    "nombre": "Boca Juniors - ",
+    "descensos": 0,
+    "jugadores": [
+        { "nombre": "Jorge Ameal", "apodo": "Presidente 2019-2023", "img": "img/amor.jpg" }, { "nombre": "Jose Beraldi", "apodo": "El bobo", "img": "img/Beraldi.jpg" }, { "nombre": "Cristian Gribaudo", "apodo": "Corrupto", "img": "img/griba.jpg" }
+    ],
+    "titulos": 66,
+    "finalesPerdidasConRiver": 2,
+    "img": "img/martinPalermo.jpg"
+}
